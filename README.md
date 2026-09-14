@@ -1,4 +1,4 @@
-## Hi there, I'm Emeka 👋
+## Hi there, I'm Chukwuemeka 👋
 
 💻 I'm a Software Developer | Tech & AI enthusiast
 
@@ -6,5 +6,5 @@
 
 🌱 Learning: Deep Learning
 
-📫 Reach me: olaraonyemeka@gmail.com
+📫 Reach me here: olaraonyemeka@gmail.com
 
